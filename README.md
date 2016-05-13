@@ -30,6 +30,11 @@ Other CMake generators and build directory can be used as well.
 
 You might need to add "-std=c++11" to CMAKE_CXX_FLAGS if your CMake version is below 3.1.
 
+## Demo
+
+Vanetza ships with a simple demo application called *socktap*.
+See [tools/socktap](tools/socktap/README.md) for details.
+
 # Authors
 
 Development of Vanetza is part of ongoing research work at Technische Hochschule Ingolstadt.
